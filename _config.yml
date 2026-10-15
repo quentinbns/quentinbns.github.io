@@ -24,11 +24,11 @@ repository               : "quentinbns/quentinbns.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Quentin Bonassies"
+  name             : "[About Me]"
   pronouns         :  # example: "she/her"  
   bio              : "Young researcher in hydrodynamic/hydrology modeling, data assimilation and remote sensing for flood modeling. Looking for a postdoctorate position."
   location         : "France"
-  employer         : "Looking for a\npostdoctorate position"
+  employer         : "Looking for a postdoctorate position"
   uri              : # URL
   email            : "qbonassies@gmail.com" 
 
