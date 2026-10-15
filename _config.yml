@@ -221,7 +221,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  outreach:
+  outreachs:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -291,6 +291,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _outreachs
+  - scope:
+      path: ""
+      type: outreachs
+    values:
+      layout: single
       author_profile: true
       share: true
 
