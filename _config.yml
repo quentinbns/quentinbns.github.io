@@ -298,9 +298,8 @@ defaults:
       path: ""
       type: outreachs
     values:
-      layout: single
+      layout: talk
       author_profile: true
-      share: true
 
 
 # Sass/SCSS
