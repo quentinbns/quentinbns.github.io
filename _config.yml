@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Quentin Bonassies"
 title_separator          : "-"
 name                     : &name "Quentin Bonassies"
@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Quentin Bonassies"
-  pronouns         : "he" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         :  # example: "she/her"  
+  bio              : "Young researcher in hydrodynamic/hydrology modeling, data assimilation and remote sensing for flood modeling. Looking for a postdoctorate position."
   location         : "France"
-  employer         : "Looking for a postdoctorate position"
+  employer         : "Looking for a\npostdoctorate position"
   uri              : # URL
   email            : "qbonassies@gmail.com" 
 
