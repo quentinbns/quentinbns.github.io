@@ -230,22 +230,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   outreachs:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
-    output: False
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   posts:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: False
+    output: false
     permalink: /:collection/:path/
 
 
@@ -273,8 +264,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
   # _outreachs
   - scope:
       path: ""
