@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction"
-collection: publications
+collection: posts
 category: manuscripts
 permalink: /publication/Bonassies_etal_2026a
 date: 2025-10-21
@@ -14,11 +14,13 @@ citation: 'Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. 
 
 Graphical Abstract
 ----
-<img src="https://quentinbns.github.io/images/graphical_abstract/bonassies_etal_2026a.jpg" style="max-width: 100%; height: auto;">
+
+<img src="https://quentinbns.github.io/images/graphical_abstract/bonassies_etal_2026a.jpg" alt="Graphical Abstract" style="max-width: 100%; height: auto;">
 
 
 Abstract
 ----
+
 Current disaster and emergency management services produce flood maps within hours using satellite data. To handle large-scale events efficiently, a reliable automated method is needed to generate an initial flood extent map, which can then be refined manually.
 
 Launched in December 2022, the Surface Water and Ocean Topography (SWOT) satellite, equipped with the Ka-band Radar Interferometer (KaRIn), provides high-resolution radar observations used here for flood detection. While not initially designed for detailed flood mapping in vegetated or urban regions, the performance of SWOT’s Pixel Cloud products was assessed during four major flood events in Greece, France, Brazil, and the USA. Each event is paired with Sentinel-1 or Sentinel-2 imagery within a 3-hour time frame, providing a valuable opportunity to compare and evaluate SWOT’s flood detection capabilities.

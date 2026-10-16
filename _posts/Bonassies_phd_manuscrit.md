@@ -1,7 +1,7 @@
 ---
 title: "Data assimilation of remote sensing flood extent for flood forecasting: Benefits of data provided by the SWOT satellite"
 title_fr: "Assimilation de données des étendues des inondations obtenues par télédétection pour la prévision des inondations : apports des données issues du satellite SWOT"
-collection: phd
+collection: posts
 category: manuscripts
 permalink: /publication/Bonassies_phd_manuscrit
 date: 2026-04-21
@@ -14,15 +14,18 @@ citation_fr: 'Q. Bonassies, "Assimilation de données des étendues des inondati
 
 French Title
 ---
+
 "Assimilation de données des étendues des inondations obtenues par télédétection pour la prévision des inondations : apports des données issues du satellite SWOT"
 
 Plain Language Summary
 ----
+
 Floods are difficult to predict due to the dynamics of such events and the limited number of observations, especially during floods. Satellite images are now widely used for flood monitoring, but combining such data with ground measurements and numerical models is still challenging. This thesis aims to improve flood modeling by better integrating in-situ observations and satellite data, with a focus on the SWOT satellite. The study examines floods at several scales, from large river basins to detailed 2D hydrodynamic flood simulations. Different SWOT products are evaluated, showing good results for river water levels and strong potential for flood extent mapping. A new method, inspired by computer vision techniques, has been developed to incorporate satellite-derived flood maps into models. Overall, the results show that combining ground data and multiple satellite sources lead to the most accurate flood simulations and highlights the strong potential of SWOT for flood monitoring.
 
 
 Abstract
 ---
+
 Flood modeling and forecasting are essential for effective risk management and disaster mitigation. Accurately representing flood dynamics remains challenging due to the strong nonlinearity of hydrological and hydraulic processes, their multi-scale nature, and the limited spatial and temporal coverage of observations, particularly during extreme events.  In recent years, satellite imagery has become an essential source of information for flood monitoring, offering unprecedented spatial coverage. These observations raise important challenges regarding the integration of heterogeneous and uncertain observations into numerical models.
 
 This thesis addresses these challenges by developing and evaluating data assimilation methods combining in situ measurements and satellite observations, with a particular focus on the SWOT (Surface Water and Ocean Topography) satellite. It adopts a multi-scale approach, ranging from large-scale hydrological routing to local two-dimensional hydrodynamic modeling, and explores the contribution of different SWOT products for improving flood simulation and monitoring.

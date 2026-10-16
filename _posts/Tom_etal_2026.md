@@ -1,6 +1,6 @@
 ---
 title: "Event-based serverless environmental modeling on the cloud: A pedagogical guide and river case study"
-collection: publications
+collection: posts
 category: manuscripts
 permalink: /publication/Tom_etal_2026
 date: 2026-01-30
@@ -13,4 +13,5 @@ citation: 'M. Tom, C. H. David, K. M. Marlis, P. A. Zimdars, Q. Bonassies, J. Wa
 
 Abstract
 ----
+
 Cloud storage of satellite Earth observations motivates moving environmental models closer to the data, while raising concerns about cost and maintainability. We here present a model-agnostic, serverless cloud approach for event-triggered computations that avoids server management on the user-end and leverages containerization for seamless local testing and deployment. Built on Amazon Web Services in proximity to NASA data, our scaffolding uses Lambda and Docker to run models in response to events. We provide a pedagogically structured guide with step-by-step examples for implementing environmental models with minimal infrastructure overhead. A case study of river routing in the Mississippi River Basin demonstrates the approach, simulating 35 years of river discharge. This scaffolding offers a scalable blueprint for deploying environmental models on Amazon Web Services in a data-proximate, serverless, and event-driven fashion.

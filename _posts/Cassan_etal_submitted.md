@@ -1,6 +1,6 @@
 ---
 title: "Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)"
-collection: submitted
+collection: posts
 category: manuscripts
 permalink: /publication/Cassan_etal_submitted
 date: 2026-12-31
@@ -11,6 +11,7 @@ citation: '<b>[Submitted]</b> L. Cassan, Q. Bonassies, S. Ricci, A. Piacentini, 
 
 Abstract
 ---
+
 Owing to the growing number of spaceborne Earth observation missions, including
 both optical and radar sensors, wide-area monitoring of flood events has become
 increasingly feasible. Although several approaches can generate binary flood maps
