@@ -250,7 +250,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
+  # _submitted
+  - scope:
+      path: ""
+      type: submitted
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
   # _pages
   - scope:
       path: ""
