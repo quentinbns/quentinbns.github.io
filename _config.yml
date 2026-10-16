@@ -241,6 +241,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: False
     permalink: /:collection/:path/
@@ -256,9 +259,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -284,10 +284,10 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _portfolio
+  # _posts
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
