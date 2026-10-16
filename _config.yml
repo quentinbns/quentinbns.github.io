@@ -235,9 +235,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  submitted:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -246,14 +243,6 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-  # _submitted
-  - scope:
-      path: ""
-      type: submitted
     values:
       layout: single
       author_profile: true
