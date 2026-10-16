@@ -86,6 +86,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  phd:
+    title: 'PhD Thesis'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -94,6 +96,8 @@ publication_category:
     title: 'Preprints'
   conference_talks:
     title: 'Conference Talks'
+  submitted:
+    title: 'Submitted'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
