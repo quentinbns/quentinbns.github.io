@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% include base_path %}
+
 PhD manuscript
 ---
   1. Q. Bonassies, "Data assimilation of remote sensing flood extent for flood forecasting: Benefits of data provided by the SWOT satellite", PhD Thesis, University of Toulouse, France, 2026.
