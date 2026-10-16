@@ -4,6 +4,7 @@ title_fr: "Assimilation de données des étendues des inondations obtenues par t
 permalink: /posts/2026/04/Bonassies_phd_manuscrit
 date: 2026-04-21
 year: 2026
+category: phd
 excerpt: 'My PhD manuscript which was defended on April 21, 2026 at CERFACS, Toulouse, France.'
 venue: 'University of Toulouse, France'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_phd_2026.bib'

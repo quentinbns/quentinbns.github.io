@@ -235,6 +235,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  submitted:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
