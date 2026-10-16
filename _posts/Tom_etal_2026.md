@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Tom_etal_2026
 date: 2026-01-30
+excerpt: 'The paper "Event-based serverless environmental modeling on the cloud: A pedagogical guide and river case study" has been accepted for publication in Environmental Modelling & Software.'
 venue: 'Environmental Modelling & Software'
 paperurl: 'https://quentinbns.github.io/files/papers/Tom_etal_2026.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Tom_etal_2026.bib'

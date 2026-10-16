@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Nguyen_etal_2026
 date: 2026-02-08
+excerpt: 'The paper "Remote Sensing Data Assimilation With a Chained Hydrologic-Hydraulic Model for Flood Forecasting" has been accepted for publication in Water Resources Research.'
 venue: 'Water Resources Research'
 paperurl: 'https://quentinbns.github.io/files/papers/Nguyen_etal_2026.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Nguyen_etal_2026.bib'

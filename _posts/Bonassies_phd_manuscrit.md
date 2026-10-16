@@ -5,6 +5,7 @@ collection: phd
 category: manuscripts
 permalink: /publication/Bonassies_phd_manuscrit
 date: 2026-04-21
+excerpt: 'My PhD manuscript which was defended on April 21, 2026 at CERFACS, Toulouse, France.'
 venue: 'University of Toulouse, France'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_phd_2026.bib'
 citation: 'Q. Bonassies, "Data assimilation of remote sensing flood extent for flood forecasting: Benefits of data provided by the SWOT satellite", PhD Thesis, University of Toulouse, France, 2026.'
