@@ -39,8 +39,7 @@
     {% endif %}
 
     {% if post.tags contains 'submitted' %}
-    <p>DEBUG: {{ post.tags | inspect }}</p>
-      <p>Submitted to <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+      <p>Submitted to <i>{{ post.venue }}</i></p>
 
     {% elsif post.collection == 'teaching' %}
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
