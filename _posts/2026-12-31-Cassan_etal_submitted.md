@@ -1,5 +1,5 @@
 ---
-title: "Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)"
+title: "[SUBMITTED] Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)"
 permalink: /posts/2026/12/Cassan_etal_submitted
 date: 2026-12-31
 year: 2026
