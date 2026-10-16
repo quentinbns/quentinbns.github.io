@@ -9,6 +9,7 @@ venue: 'University of Toulouse, France'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_phd_2026.bib'
 citation: 'Q. Bonassies, "Data assimilation of remote sensing flood extent for flood forecasting: Benefits of data provided by the SWOT satellite", PhD Thesis, University of Toulouse, France, 2026.'
 citation_fr: 'Q. Bonassies, "Assimilation de données des étendues des inondations obtenues par télédétection pour la prévision des inondations : apports des données issues du satellite SWOT", Thèse de doctorat, Université de Toulouse, France, 2026.'
+permalink: /posts/2026/04/Bonassies_phd_manuscrit
 ---
 
 French Title
