@@ -1,6 +1,6 @@
 ---
 title: "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data"
-permalink: /publication/Bonassies_etal_2026b
+permalink: /posts/2026/01/Bonassies_etal_2026b
 date: 2026-01-29
 year: 2026
 excerpt: 'The paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.'
@@ -9,7 +9,6 @@ paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026b.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_etal_2026b.bib'
 citation: 'Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, “Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data”, IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens. DOI: 10.1109/JSTARS.2026.3659808'
 doi: 'https://doi.org/10.1109/JSTARS.2026.3659808'
-permalink: /posts/2026/01/Bonassies_etal_2026b
 ---
 
 Abstract

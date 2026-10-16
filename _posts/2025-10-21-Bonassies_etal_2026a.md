@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction"
-permalink: /publication/Bonassies_etal_2026a
+permalink: /posts/2025/10/Bonassies_etal_2026a
 date: 2025-10-21
 year: 2025
 venue: 'Remote Sensing of Environment'
@@ -9,7 +9,6 @@ paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026a.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_etal_2026a.bib'
 doi: 'https://doi.org/10.1016/j.rse.2025.115101'
 citation: 'Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, “A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction”, Remote Sens. Env., 333, 115101, 2026. DOI: 10.1016/j.rse.2025.115101'
-permalink: /posts/2025/10/Bonassies_etal_2026a
 ---
 
 Graphical Abstract
