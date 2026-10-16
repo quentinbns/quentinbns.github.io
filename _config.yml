@@ -230,13 +230,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   outreachs:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   posts:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
