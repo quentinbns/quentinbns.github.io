@@ -2,6 +2,7 @@
 title: "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction"
 permalink: /publication/Bonassies_etal_2026a
 date: 2025-10-21
+year: 2025
 venue: 'Remote Sensing of Environment'
 excerpt: 'The paper "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction" has been accepted for publication in Remote Sensing of Environment.'
 paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026a.pdf'

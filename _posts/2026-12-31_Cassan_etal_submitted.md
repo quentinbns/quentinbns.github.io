@@ -2,6 +2,7 @@
 title: "Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)"
 permalink: /publication/Cassan_etal_submitted
 date: 2026-12-31
+year: 2026
 excerpt: 'The paper "Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)" has been submitted for publication in Journal of Hydrology.'
 venue: 'Journal of Hydrology'
 citation: '<b>[Submitted]</b> L. Cassan, Q. Bonassies, S. Ricci, A. Piacentini, T-H. Nguyen, R. R. Suquet, “Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)”, Journal of Hydrology. <b>[Submitted]</b>'

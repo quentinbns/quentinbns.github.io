@@ -2,6 +2,7 @@
 title: "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data"
 permalink: /publication/Bonassies_etal_2026b
 date: 2026-01-29
+year: 2026
 excerpt: 'The paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.'
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026b.pdf'
