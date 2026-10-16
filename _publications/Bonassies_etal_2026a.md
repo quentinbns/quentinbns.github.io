@@ -13,7 +13,8 @@ citation: 'Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. 
 
 Graphical Abstract
 ----
-<img src="https://quentinbns.github.io/graphical_abstract/images/Bonassies_etal_2026a.png" alt="Graphical Abstract" style="max-width: 100%; height: auto;">
+<img src="https://quentinbns.github.io/graphical_abstract/images/Bonassies_etal_2026a.png" style="max-width: 100%; height: auto;">
+
 
 Abstract
 ----
