@@ -1,4 +1,3 @@
-
 ---
 title: "Remote Sensing Data Assimilation With a Chained Hydrologic-Hydraulic Model for Flood Forecasting"
 collection: publications
