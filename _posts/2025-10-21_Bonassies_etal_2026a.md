@@ -1,6 +1,5 @@
 ---
 title: "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction"
-category: manuscripts
 permalink: /publication/Bonassies_etal_2026a
 date: 2025-10-21
 venue: 'Remote Sensing of Environment'

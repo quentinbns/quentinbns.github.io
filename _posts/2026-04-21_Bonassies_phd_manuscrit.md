@@ -1,7 +1,6 @@
 ---
 title: "Data assimilation of remote sensing flood extent for flood forecasting: Benefits of data provided by the SWOT satellite"
 title_fr: "Assimilation de données des étendues des inondations obtenues par télédétection pour la prévision des inondations : apports des données issues du satellite SWOT"
-category: phd
 permalink: /publication/Bonassies_phd_manuscrit
 date: 2026-04-21
 excerpt: 'My PhD manuscript which was defended on April 21, 2026 at CERFACS, Toulouse, France.'
