@@ -1,6 +1,5 @@
 ---
 title: "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data"
-collection: posts
 category: manuscripts
 permalink: /publication/Bonassies_etal_2026b
 date: 2026-01-29
