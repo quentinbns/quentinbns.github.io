@@ -20,3 +20,41 @@ My research interests lie at the intersection of satellite remote sensing, hydro
 Having completed my PhD, I am currently seeking postdoctoral opportunities and research collaborations in these fields.
 
 For more information, please explore my research and publications or get in touch at <a href="mailto:qbonassies@gmail.com">qbonassies@gmail.com</a>.
+
+
+## Featured publication
+
+{% assign featured = site.posts
+  | where: "doi", "https://doi.org/10.1016/j.rse.2025.115101"
+  | first %}
+
+{% if featured %}
+<div class="publication-preview">
+
+  <div class="publication-preview-image">
+    <img src="/images/swot-flood-extent.png"
+         alt="SWOT Pixel Cloud data for flood extent extraction">
+  </div>
+
+  <div class="publication-preview-text">
+
+    <h3>
+      <a href="{{ featured.url | relative_url }}">
+        {{ featured.title }}
+      </a>
+    </h3>
+
+    <p><em>{{ featured.venue }}</em>, {{ featured.year }}.</p>
+
+    <p>{{ featured.excerpt }}</p>
+
+    <p>
+      <a href="{{ featured.doi }}">DOI</a> ·
+      <a href="{{ featured.paperurl }}">PDF</a> ·
+      <a href="{{ featured.bibtexurl }}">BibTeX</a>
+    </p>
+
+  </div>
+</div>
+{% endif %}
+
