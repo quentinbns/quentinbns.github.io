@@ -74,7 +74,7 @@ Communications (oral, invited talk, poster)
   
   8. <b>Implementation of the Chan-Vese Distance in an Ensemble Kalman Filter for the Assimilation of SAR Images as Front-type Data</b> (poster), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. [[Poster](https://quentinbns.github.io/files/posters/Poster_SHF_2023_BonassiesQuentin.pdf)]
 
-  9. <b>Front type observation for remote sensing data assimilation for flood modelling</b> (talks), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. [[Talks](https://quentinbns.github.io/files/talks/20231011_TUC2023_Bonassies_VF_3.pdf)]
+  9. <b>Front type observation for remote sensing data assimilation for flood modelling</b> (talk), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. [[Talks](https://quentinbns.github.io/files/talks/20231011_TUC2023_Bonassies_VF_3.pdf)]
 
   10. <b>Integrate new in-situ, air- and spaceborne data to improve river floods modeling</b> (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. [[Poster](https://quentinbns.github.io/files/posters/Poster_TUC_MS_2023_Vfinal.pdf)]
 

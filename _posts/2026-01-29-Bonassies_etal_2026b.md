@@ -3,7 +3,7 @@ title: "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From 
 permalink: /posts/2026/01/Bonassies_etal_2026b
 date: 2026-01-29
 year: 2026
-excerpt: 'The paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.'
+excerpt: 'This study investigates the potential of SWOT river observations to improve flood reanalysis and hydraulic parameter estimation along a 50-km stretch model of the Garonne River, France. Using ensemble Kalman filter data assimilation, it evaluates the benefits of combining SWOT observations with in-situ water level measurements and examines the impact of satellite revisit frequency. Results show that combining satellite and in-situ data provides the most accurate representation of flood dynamics, reducing water level errors by an order of magnitude in observing system simulation experiments and to below 17 cm for the 2024 flood event. These findings highlight the value of integrating satellite observations and ground measurements to improve river flood reanalysis and monitoring.'
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026b.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_etal_2026b.bib'

@@ -4,7 +4,7 @@ permalink: /posts/2025/10/Bonassies_etal_2026a
 date: 2025-10-21
 year: 2025
 venue: 'Remote Sensing of Environment'
-excerpt: 'The paper "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction" has been accepted for publication in Remote Sensing of Environment.'
+excerpt: 'This study evaluates the potential of SWOT Pixel Cloud data for automated flood extent extraction across four major flood events in Greece, France, Brazil, and the USA. By comparing three radar variables—backscatter (σ0), coherent power, and interferometric coherence—with SWOT’s built-in classification and Sentinel-1/2 imagery, the study assesses SWOT’s ability to detect flooding in challenging environments, including vegetated and urban areas and regions with snow cover. The results highlight the potential of SWOT for large-scale flood mapping while identifying limitations associated with high soil moisture and radar incidence angle, providing insights for improving satellite-based flood monitoring.'
 paperurl: 'https://quentinbns.github.io/files/papers/Bonassies_etal_2026a.pdf'
 bibtexurl: 'https://quentinbns.github.io/files/bib/Bonassies_etal_2026a.bib'
 doi: 'https://doi.org/10.1016/j.rse.2025.115101'
