@@ -32,7 +32,7 @@ For more information, please explore my research and publications or get in touc
 <div class="publication-preview">
 
   <div class="publication-preview-image">
-    <img src="/images/swot-flood-extent.png"
+    <img src="https://quentinbns.github.io/images/graphical_abstract/bonassies_etal_2026a.jpg"
          alt="SWOT Pixel Cloud data for flood extent extraction">
   </div>
 
