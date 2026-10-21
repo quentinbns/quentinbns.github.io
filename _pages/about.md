@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a young hydrology researcher with a background in water resources engineering, hydrodynamic modeling, hydrological modeling, data assimilation, and remote sensing. I completed my <i>Ph.D in hydrology and continental surfaces</i> at <b>[CERFACS](https://www.cerfacs.fr/)</b> in Toulouse, France, in April 2026, through a collaboration with <b>[CNES](https://www.cnes.fr/)</b> and <b>[CLS](https://www.cls.fr/)</b>.
+I am a young hydrology researcher with a background in water resources engineering, hydrodynamic modeling, hydrological modeling, data assimilation, and remote sensing. I completed my <i>Ph.D in hydrology and continental surfaces</i> at <b>[CERFACS](https://www.cerfacs.fr/)</b> in Toulouse, France, in April 2026. It was co-supervised by <b>[CNES](https://www.cnes.fr/)</b>, <b>[CLS](https://www.cls.fr/)</b> and <b>CERFACS</b>.
 
 My doctoral research focused on improving flood monitoring and prediction through the assimilation of satellite observations into hydrological and hydraulic models. In particular, I investigated the potential of the <b>[Surface Water and Ocean Topography](https://swot.jpl.nasa.gov/)</b> (SWOT) mission to improve our understanding of river dynamics and flood events, with applications to flood forecasting and reanalysis. I also explored innovative data assimilation techniques, implementing the Chan-Vese segmentation method within an Extended Kalman Filter for the assimilation of flood extent images.
 
