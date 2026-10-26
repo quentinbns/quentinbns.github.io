@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "[About Me]"
-  pronouns         :  # example: "she/her"  
+  pronouns         :  # example: "she/her"
   bio              : "Early-career researcher in hydrodynamic/hydrology modeling, data assimilation and remote sensing for flood modeling. Looking for a postdoctorate position."
   location         : "France"
   employer         : "Open for postdoc positions"
   uri              : # URL
-  email            : "qbonassies@gmail.com" 
+  email            : "qbonassies@gmail.com"
 
   # Academic websites
   academia         : # URL
